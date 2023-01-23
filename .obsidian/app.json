@@ -1,0 +1,9 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "smartIndentList": true,
+  "alwaysUpdateLinks": true
+}
