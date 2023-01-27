@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7d52a1c660f8150d",
+        "id": "fb19a9e79e14c46e",
         "type": "tabs",
         "children": [
           {
-            "id": "8bbbab25b72d0cc5",
+            "id": "526493cd3fe6376f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django_REST_Framework/Auth/AuthToken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4b94c173bf39660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django_REST_Framework/Iniciar_Proyecto/FirstStep.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b3c2d5b6e5ff5fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bash/Condicionales.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash/Condicionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bash/Condicionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bash/Condicionales.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,17 +138,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5b3c2d5b6e5ff5fc",
+  "active": "526493cd3fe6376f",
   "lastOpenFiles": [
-    "Django_REST_Framework/Iniciar_Proyecto/FirstStep.md",
-    "Django_REST_Framework/Models/User.md",
-    "Django_REST_Framework/Auth/AuthToken.md",
-    "README.md",
-    "Git/Commands/Commit.md",
-    "Django_REST_Framework/Notas.md",
-    "Git/Comandos/Commit.md",
-    "Django_REST_Framework.md",
-    "Django_REST_Framework/index.md",
-    "Django.md"
+    "Excel - Para Sofi/5.Fórmulas.md",
+    "Excel - Para Sofi/6.Booleanos.md",
+    "Excel - Para Sofi/1.Inicio.md",
+    "Excel - Para Sofi/2.Atajos de Teclado.md",
+    "Excel - Para Sofi/3.Referencia - Relativa y Absoluta.md",
+    "Excel - Para Sofi/4.Validación de Datos.md",
+    "3..md",
+    "\"3..md",
+    "Excel - Para Sofi/img/ref_relativa.png",
+    "img/ref_relativa.png.md"
   ]
 }
